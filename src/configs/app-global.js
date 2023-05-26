@@ -1,6 +1,6 @@
 export const PROJECT_NAME = 'Sundaymart';
-export const BASE_URL = 'https://api.sundaymart.net';
-export const WEBSITE_URL = 'https://sundaymart.net';
+export const BASE_URL = 'https://backend.openpay.com.do/';
+export const WEBSITE_URL = 'https://tidysistemabranch.vercel.app/';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
 export const export_url = BASE_URL + '/storage/';
